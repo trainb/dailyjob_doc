@@ -1,4 +1,4 @@
-# get_documentos()
+# crea_documentos()
 
 Guardamos archivos asociados a una notificación de tipo 'posible tarea'. 
 
