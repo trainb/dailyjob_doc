@@ -1,4 +1,4 @@
-# Manuales de desarrollo
+# Listado api
 
 ---
 
@@ -18,11 +18,13 @@
 - [Control horario](./controlhorario/index.md)
 - [Control mensual](./controlmensual/index.md)
 - [Dias festivos](./diasfestivos/index.md)
+- [Documentos](./documentos/index.md)
 - [Hitos de proyecto](./hitos/index.md)
 - [Invitaciones](./invitactions/index.md)
 - [Log](./log/index.md)
 - [Log](./log/index.md)
 - [Log marketing](./logmarketing/index.md)
+- [Objetos doc](./objetosdoc/index.md)
 - [Participantes de un proyecto](./particproyecto/index.md)
 - [Participantes de una tarea](./partictarea/index.md)
 - [Precompañías](./precompany/index.md)
