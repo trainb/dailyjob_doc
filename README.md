@@ -22,7 +22,6 @@
 - [Hitos de proyecto](./hitos/index.md)
 - [Invitaciones](./invitactions/index.md)
 - [Log](./log/index.md)
-- [Log](./log/index.md)
 - [Log marketing](./logmarketing/index.md)
 - [Objetos doc](./objetosdoc/index.md)
 - [Participantes de un proyecto](./particproyecto/index.md)
