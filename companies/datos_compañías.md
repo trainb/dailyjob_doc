@@ -1,4 +1,4 @@
-# datos_companias()
+# datos_compañías()
 
 Devolvemos la cantidad total de compañías, las que están activadas y las que teniene actividad. 
 

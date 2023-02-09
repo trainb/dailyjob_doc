@@ -1,4 +1,4 @@
-# desactivar_compania()
+# desactivar_compañía()
 
 Desactivamos la compañía. 
 

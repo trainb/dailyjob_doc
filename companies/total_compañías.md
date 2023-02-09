@@ -1,4 +1,4 @@
-# total_companias()
+# total_compañías()
 
 Devolvemos la cantidad total de compañías. 
 
