@@ -23,6 +23,7 @@
 - [Participantes de un proyecto](./particproyecto/index.md)
 - [Participantes de una tarea](./partictarea/index.md)
 - [Precompañías](./precompany/index.md)
+- [Proyectos](./proyectos/index.md)
 - [Solicitudes de ausencia](./solicitudausencia/index.md)
 - [Subtareas](./subtareas/index.md)
 - [Tableros](./tableros/index.md)
