@@ -33,4 +33,3 @@
 - [Timetracking activos](./timetrackingactivos/index.md)
 - [Usuarios](./users/index.md)
 - [Usuarios administradores](./useradmin/index.md)
-- [Grid filter](./grisfilter/index.md)
